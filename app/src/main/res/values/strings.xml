@@ -3,4 +3,7 @@
     <string name="start">start</string>
     <string name="stop">stop</string>
     <string name="reset">reset</string>
+    <string name="is_running_key">is running</string>
+    <string name="seconds_key">seconds</string>
+    <string name="was_running_key">was running</string>
 </resources>
